@@ -899,3 +899,8 @@ textarea::placeholder {
   object-fit: contain;
   object-position: left center;
 }
+
+.site-footer span {
+  color: var(--accent);
+  font-weight: 500;
+}
